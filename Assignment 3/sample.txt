@@ -1,0 +1,48 @@
+Magician: Apprentice
+Raymond E. Feist
+12 1 1993
+Spectra (January 1, 1994)
+5.02
+0553564943
+512
+1
+Magician: Master
+Raymond E. Feist
+12 1 1993
+Spectra (January 1, 1994)
+7.99
+0553564935
+499
+1
+Harry Potter and the Sorcerer’s Stone
+J.K. Rowling
+7 30 1997
+Scholastic 
+10.99
+0747532699
+309
+3
+Harry Potter and the Chamber of Secrets
+J.K. Rowling 
+6 2 1999
+Scholastic 
+10.99
+0747538492
+341
+2
+A Game of Thrones
+George R.R. Martin
+8 1 1996
+Bantam Spectra
+9.99
+0553103547
+694
+1
+A Clash of Kings
+George R.R. Martin
+3 1 1999
+Bantam Spectra
+9.99
+0553108034
+768
+4
